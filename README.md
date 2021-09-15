@@ -15,4 +15,4 @@
 - [Sindi Argumedo Galván](https://github.com/sargumed/ "Sindi Argumedo Github")
 - [Juan Mejía Castaño](https://github.com/jjmecas/ "Juan Mejía Github")
 - [Brayan Ospina Ceballos](https://github.com/BrayanOsce/ "Brayan Ospina Github")
-- [Javier Pinzon Ruiz](https://github.com// "Javier Pinzon Github")
+- [Javier Pinzon Ruiz](https://github.com/JavierPinzon34/ "Javier Pinzon Github")

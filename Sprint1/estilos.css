@@ -1,0 +1,81 @@
+body {
+  margin: 0;
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 60px;
+  display: flex;
+  justify-content: space-around;  
+  background-color: gray;
+}
+  .navbar a {
+    width: 100%;
+    height: 60px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: white;
+  }
+    .navbar a span {
+      font-size: 20px;
+    }
+
+    .navbar a:hover {
+      background-color: blue;
+    }
+
+  .navbar .contenedor-boton {
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .navbar .contenedor-boton button {
+    background-color: green;
+    color: white;
+    height: 30px;
+    width: 50px;
+    margin-right: 20px;
+  }
+
+  .navbar .contenedor-boton button:active {
+    background-color: blue;
+  }
+
+.registro {
+  margin-top: 100px !important;
+  background-color: beige;
+  width: 100px;
+  height: 200px;
+  padding: 10px;
+}
+
+  .registro input {
+    height: 20px;
+    border: 1px solid green;
+    margin: 2px;
+  }
+
+.aspectos {
+  margin-top: 100px !important;  
+  margin-left: auto;
+  width: 100px;
+  height: 200px;
+  padding: 10px;
+}
+
+.aspectos button {
+  width: 100%;
+  margin-top: 3px;
+  border-radius: 5px;
+  background-color: aqua;
+}
+
+.aspectos button:active {
+  background-color: purple;
+}
